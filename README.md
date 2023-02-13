@@ -1,6 +1,6 @@
-# Install
+![splash](splash.png)
 
-![](splash.png)
+# Install
 
 ## Windows
 
@@ -9,4 +9,4 @@ Copy the foler __vimfiles__ into your home directory.
 
 ## Unix-like
 
-TODO
+TODO(Merge the foler __vimfiles__ into the directory where your original __vimfiles__ is located.)
