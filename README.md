@@ -1,12 +1,8 @@
 ![splash](splash.png)
 
-# Install
+# 安装
 
 ## Windows
+在文件资源管理器中导航到%USERPROFILE%，将仓库中的vimfiles覆盖进去即可。
 
-Open file explorer, then enter %USERPROFILE% to jump to your home directory.
-Copy the foler __vimfiles__ into your home directory.
-
-## Unix-like
-
-TODO(Merge the foler __vimfiles__ into the directory where your original __vimfiles__ is located.)
+（我只提供Windows的安装方法，因为只有Windows有3DsMax呀！）
